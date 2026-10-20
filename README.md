@@ -19,9 +19,9 @@ This repository is a collection of tutorial projects for the use of QGIS desktop
 - Performing spatial queries
 
 ## Software Environment
-QGIS Version: 4.2.3
-Operating System: Windows
-Plugins used for Analysis: Included with standard download of QGIS
+QGIS Version: 4.2.3\
+Operating System: Windows\
+Plugins used for Analysis: Included with standard download of QGIS\
 
 ## Completed Tutorials
 -
