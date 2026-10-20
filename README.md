@@ -1,5 +1,5 @@
 # gist-604b-assignment2
-GIST 604B Assignment 2: QGIS Desktop GIS Projects
+GIST 604B Assignment 2: QGIS Desktop GIS Projects \
 **Student:** Tucker Keener  
 Course: GIST 604B - Open Source GIS  
 Module 2: QGIS Desktop GIS  
